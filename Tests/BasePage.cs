@@ -36,6 +36,7 @@ namespace AlertFrameworkPractice3.Tests
         public void AfterTest()
         {
             //FrameworkHelper.WebDriver.Quit();
+            Console.WriteLine("life is beautiful");
         }
     }
 }
